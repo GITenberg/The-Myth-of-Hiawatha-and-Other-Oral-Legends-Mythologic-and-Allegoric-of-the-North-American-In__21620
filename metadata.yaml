@@ -1,0 +1,32 @@
+_repo: The-Myth-of-Hiawatha-and-Other-Oral-Legends-Mythologic-and-Allegoric-of-the-North-American-In__21620
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schoolcraft, Henry Rowe
+    alias: Schoolcraft, Henry R. (Henry Rowe)
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '3850'
+    url: http://www.gutenberg.org/2009/agents/3850
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2007-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hiawatha, active 15th century'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Folklore'
+- !lcsh 'Algonquian Indians -- Folklore'
+title: The Myth of Hiawatha, and Other Oral Legends, Mythologic and Allegoric, of
+  the North American Indians
+url: http://www.gutenberg.org/ebooks/21620
